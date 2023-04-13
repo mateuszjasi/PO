@@ -1,8 +1,8 @@
 # PO
 Napisz klasę kalkulatora naukowy, która będzie realizowała operacje:
-1. + 
-2. - 
-3. * 
+1. \+ 
+2. \- 
+3. \* 
 4. / 
 5. ^ 
 6. pierwiastkowanie dowolnego stopnia (zależne od argumentu po prawej stronie "p" np.  8p3 = 2)
